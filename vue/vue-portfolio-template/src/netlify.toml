@@ -1,4 +1,4 @@
 [[redirects]]
 from ="/*"
-to = "/Home.vue"
+to = "vue/vue-portfolio-template/Home.vue"
 status = 200

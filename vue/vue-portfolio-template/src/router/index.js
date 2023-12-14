@@ -5,6 +5,7 @@ import ProjectsView from '../views/ProjectsView.vue';
 import ContactView from '../views/ContactView.vue';
 import Todolist from '../views/Todolist.vue';
 import IntroVuegames from '../views/vuegames/IntroVuegames.vue';
+import Games from '../views/Games.vue';
 
 
 const routes = [
@@ -40,6 +41,12 @@ const routes = [
     name: 'introvuegames',
     component: IntroVuegames,
   },
+
+  {
+    path: '/games',
+    name: 'games',
+    component: Games,
+  }
   
 ];
 

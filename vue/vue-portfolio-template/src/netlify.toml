@@ -1,4 +1,0 @@
-[[redirects]]
-from ="/*"
-to = "vue/vue-portfolio-template/Home.vue"
-status = 200

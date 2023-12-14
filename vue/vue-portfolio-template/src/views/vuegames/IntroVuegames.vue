@@ -16,7 +16,7 @@
       methods: {
         startGame() {
           // Use Vue Router to navigate to the desired route
-          this.$router.push('/intro'); // Replace '/intro' with your desired route
+          this.$router.push('../games'); // Replace '/intro' with your desired route
         },
       },
     };

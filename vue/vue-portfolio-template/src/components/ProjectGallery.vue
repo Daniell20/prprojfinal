@@ -63,8 +63,7 @@
 
             <!-- image - start -->
             <router-link to="/projects" class="group relative flex h-48 items-end overflow-hidden rounded-lg bg-gray-100 shadow-lg md:h-80">
-                <img src="
-                "
+                <img src="../assets/vuegames.png"
                     loading="lazy" alt="vuegames"
                     class="absolute inset-0 h-full w-full object-cover object-center transition duration-200 group-hover:scale-110" />
 
